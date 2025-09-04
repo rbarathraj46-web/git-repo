@@ -1,0 +1,9 @@
+
+
+CREATE DATABASE Students_db
+
+CREATE TABLE Students (
+	id INT PRIMARY KEY AUTO INCREMENT
+    name VARCHAR (100) NOT NULL,
+    age INT,
+    
